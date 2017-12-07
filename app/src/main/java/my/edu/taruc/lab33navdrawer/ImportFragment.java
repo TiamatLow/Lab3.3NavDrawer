@@ -36,7 +36,7 @@ public class ImportFragment extends Fragment {
             }
         });
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_import, container, false);
+        return v;
     }
 
 }
